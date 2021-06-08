@@ -1,0 +1,13 @@
+0
+1
+1
+2
+6
+
+pierwsza linia - ilosc statkow wielkosci 4
+druga linia - ilosc statkow wielkosci 3
+trzecia linia - ilosc statkow wielkosci 2
+czwarta linia - ilosc statkow wielkosci 1
+piata linia - dlugosc i szerokosc planszy
+
+1080 linijek kodu!
